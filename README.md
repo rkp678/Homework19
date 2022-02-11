@@ -20,13 +20,13 @@
 ### Step 3: Inspect - Completed  
   
     
-![image](./images/streamlit_screenshot1.png)   
+![image](./Images/streamlit_screenshot1.png)   
  
-![image](./images/streamlit_screenshot2.png)  
+![image](./Images/streamlit_screenshot2.png)  
 
-![image](./images/streamlit_screenshot3.png)  
+![image](./Images/streamlit_screenshot3.png)  
 
-![image](./images/streamlit_screenshot4.png)  
+![image](./Images/streamlit_screenshot4.png)  
 
-![image](./images/streamlit_screenshot5.png)  
+![image](./Images/streamlit_screenshot5.png)  
 
